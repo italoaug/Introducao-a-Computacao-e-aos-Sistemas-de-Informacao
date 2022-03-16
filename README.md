@@ -9,6 +9,7 @@
 ## Conversão entre sistemas de numeração
 - [ver slides](https://docs.google.com/presentation/d/126Gf9htliwQoiQIp8uyc4c6Ac9yyo_UVA1snGcskh70/edit?usp=sharing)
 ## Aritmética binária
+- [ver slides](https://docs.google.com/presentation/d/1khl7oOOdgh2h8ALmGrcsm1TcVfP41Sol6hR2LzhxRUQ/edit?usp=sharing)
 ## Sistemas de codificação
 ## Seminários de Sistemas de Informação
 
