@@ -13,6 +13,7 @@
 ## Sistemas de codificação
 - [ver slides](https://docs.google.com/presentation/d/1jmSvnAtVurFjri5dQaqH2aj5UqQl5d8BkfpXTVa7bQY/edit?usp=sharing)
 ## Seminários de Sistemas de Informação
+- [ver slides](https://drive.google.com/drive/folders/1yNKnaX-ObltpIKtI-agQCzpMA07m4EYF?usp=sharing)
 
 ---
 Encontrou algum erro? Tem alguma sugestão de melhoria? Envie um [email](mailto:italo.assis@ufersa.edu.br).
