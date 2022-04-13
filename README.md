@@ -11,6 +11,7 @@
 ## Aritmética binária
 - [ver slides](https://docs.google.com/presentation/d/1khl7oOOdgh2h8ALmGrcsm1TcVfP41Sol6hR2LzhxRUQ/edit?usp=sharing)
 ## Sistemas de codificação
+- [ver slides](https://docs.google.com/presentation/d/1jmSvnAtVurFjri5dQaqH2aj5UqQl5d8BkfpXTVa7bQY/edit?usp=sharing)
 ## Seminários de Sistemas de Informação
 
 ---
